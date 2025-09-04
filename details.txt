@@ -1,0 +1,9 @@
+$ python registration.py
+Status Code: 200
+Response JSON: {'email': 'sadvithaaitharaju@gmail.com', 'name': 'sadvitha', 'rollNo': '22891a6602', 'accessCode': 'YzuJeU', 'clientID': 'a4c6cf47-5049-45c4-8c46-0c1fcc5a3aee', 'clientSecret': 'AFuKvnHvRXaVGDnH'}
+
+
+$ python authorization.py
+Status Code: 201
+Response JSON: {'token_type': 'Bearer', 'access_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJzYWR2aXRoYWFpdGhhcmFqdUBnbWFpbC5jb20iLCJleHAiOjE3NTY5NzE1ODAsImlhdCI6MTc1Njk3MDY4MCwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6IjhkNDg0Zjk3LTM3MDgtNDhlMy1iZGFkLTYzYmRjNTJjZGEwNiIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6InNhZHZpdGhhIiwic3ViIjoiYTRjNmNmNDctNTA0OS00NWM0LThjNDYtMGMxZmNjNWEzYWVlIn0sImVtYWlsIjoic2Fkdml0aGFhaXRoYXJhanVAZ21haWwuY29tIiwibmFtZSI6InNhZHZpdGhhIiwicm9sbE5vIjoiMjI4OTFhNjYwMiIsImFjY2Vzc0NvZGUiOiJZenVKZVUiLCJjbGllbnRJRCI6ImE0YzZjZjQ3LTUwNDktNDVjNC04YzQ2LTBjMWZjYzVhM2FlZSIsImNsaWVudFNlY3JldCI6IkFGdUt2bkh2UlhhVkdEbkgifQ.WfV_4oPVOJv9M5f_KaBL8ZPwWRB9eOjpk6xYSuI1DqY', 'expires_in': 1756971580}
+(myenv) 
